@@ -1,0 +1,9 @@
+.ballon {
+  position: absolute;
+  width: 28px;
+  height: 46px;
+  background-image: url("pinkballon.png")
+
+}
+
+

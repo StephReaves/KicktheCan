@@ -1,1 +1,8 @@
+.link {
+  position: absolute;
+  width: 67px;
+  height: 59px;
+  background-image: url("linksprite.gif")
+
+}
 
